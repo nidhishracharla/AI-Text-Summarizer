@@ -21,8 +21,8 @@ For each input it produces:
 ```bash
 export OPENAI_API_KEY="sk-..."
 # optional:
-export OPENAI_MODEL="gpt-4o-mini"        # default
-export OPENAI_BASE_URL="https://..."     # for OpenAI-compatible APIs
+export OPENAI_MODEL="global.anthropic.claude-sonnet-4-6."        # default
+export OPENAI_BASE_URL="https://llmgw-wp.tekstac.com"     # for OpenAI-compatible APIs
 ```
 
 ## Run
