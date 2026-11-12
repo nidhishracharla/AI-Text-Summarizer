@@ -1,0 +1,16 @@
+target/
+dependency-reduced-pom.xml
+*.class
+*.jar
+!.mvn/wrapper/*.jar
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Env / secrets
+.env
